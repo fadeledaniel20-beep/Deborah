@@ -1,5 +1,5 @@
  // 2011 in binary
-const correctPassword = "11111011011";
+const correctPassword = "goodgirl";
 
 function checkPassword() {
  const input = document.getElementById("password").value;
