@@ -1,5 +1,5 @@
 // ================= CONFIG =================
-const message = "I LOVE YOU 💖";
+const message = "FUCK YOU 🥸🖕";
 const container = document.getElementById("loveText");
 
 // Timing controls (makes animation smoother and more premium)
