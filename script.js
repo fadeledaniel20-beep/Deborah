@@ -8,7 +8,7 @@ function checkPassword() {
  if (input === correctPassword) {
   window.location.href = "dashboard.html";
  } else {
-  message.textContent = "Wrong password 💔";
+  message.textContent = "Wrong password 🖕";
  }
 }
 
@@ -20,7 +20,7 @@ function createHeart() {
  heart.classList.add("heart");
  
  // Randomly choose heart or kiss
- const symbols = ["💖", "💗", "💘", "💝", "💋"];
+ const symbols = ["🖕", "🧴", "💩", "😈", "🧠"];
  heart.textContent = symbols[Math.floor(Math.random() * symbols.length)];
  
  heart.style.left = Math.random() * 100 + "vw";
