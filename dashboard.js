@@ -1,5 +1,5 @@
 // ================= CONFIG =================
-const message = "YOU ARE A HOE 🥸🖕";
+const message = "YOU ARE A HOE 🖕";
 const container = document.getElementById("loveText");
 
 // Timing controls (makes animation smoother and more premium)
