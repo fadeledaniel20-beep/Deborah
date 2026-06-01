@@ -1,5 +1,5 @@
 // ================= CONFIG =================
-const message = "HAPPY BIRTHDAY";
+const message = "HAPPY BIRTHDAY🎉";
 const container = document.getElementById("loveText");
 
 // Timing controls (makes animation smoother and more premium)
